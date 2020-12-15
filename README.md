@@ -6,10 +6,14 @@ Demo:
 
 ![Demo](https://github.com/Sundaresan0502/Cyber-bullying-detection-system/blob/main/Demo_For_Cyber_Bullying_Detection_System.gif)
 
-Requirement: Python, Flask
+Requirement: 
+ * Python 
+ * Flask
    
 Note:
 Machine Learning algorithm Used for develop a Model is Naive Bayes classifier.
 
-Use Flask framework to develop front-end for this system. tutorial for flask (https://www.tutorialspoint.com/flask/index.htm), Guide for install flask (https://flask.palletsprojects.com/en/1.1.x/installation/)
+Use Flask framework to develop front-end for this system. 
+* tutorial for flask (https://www.tutorialspoint.com/flask/index.htm)
+* Guide for install flask (https://flask.palletsprojects.com/en/1.1.x/installation/)
 
