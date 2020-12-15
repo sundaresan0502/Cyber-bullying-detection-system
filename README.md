@@ -1,4 +1,15 @@
 # Cyber-bullying-detection-system
-Using a machine learning algorithm detect the bullying on online social media. Use flask for frontend design
+Cyber-bullying is the deliberate use of online digital media to communicate false, embarrassing, or hostile information about another person. 
+In other words this system used to detect offensive word from the given text.
+
+Demo:
 
 ![Demo](https://github.com/Sundaresan0502/Cyber-bullying-detection-system/blob/main/Demo_For_Cyber_Bullying_Detection_System.gif)
+
+Requirement: Python, Flask
+   
+Note:
+Machine Learning algorithm Used for develop a Model is Naive Bayes classifier.
+
+Use Flask framework to develop front-end for this system. tutorial for flask (https://www.tutorialspoint.com/flask/index.htm), Guide for install flask (https://flask.palletsprojects.com/en/1.1.x/installation/)
+
