@@ -1,4 +1,3 @@
-Hi Everyone
 # Cyber-bullying-detection-system
 Cyber-bullying is the deliberate use of online digital media to communicate false, embarrassing, or hostile information about another person. 
 In other words this system used to detect offensive word from the given text.
