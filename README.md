@@ -13,7 +13,7 @@ Requirements:
 Note:
 Machine Learning algorithm Used for develop a Model is Naive Bayes classifier.
 
-Use Flask framework to develop front-end for this system. 
+Used Flask framework to develop front-end for this system. 
 * tutorial for flask (https://www.tutorialspoint.com/flask/index.htm)
 * Guide for install flask (https://flask.palletsprojects.com/en/1.1.x/installation/)
 * for more info and sample project on flask, please check their offical website (https://flask.palletsprojects.com/en/2.0.x/tutorial/)
